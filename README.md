@@ -9,6 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
   </div>
 <div id="header" align="center" >
-<p> Hello everyone <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30" height="40" align="middle"/> 
+<p> Hello everyone <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30" height="30" align="middle"/> 
 </p>
 </div>
