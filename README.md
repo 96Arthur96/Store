@@ -1,6 +1,6 @@
 # Store
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="250" height="100">
+  <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="450" height="350">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/feed/">
