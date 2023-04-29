@@ -17,7 +17,7 @@
  
 
     
-    <p><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="120" height="180" align="middle"/> 
+    <p><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/  width="120" height="180" align="middle"/> 
 Hi everyone</p>
     </body>
 </html>
