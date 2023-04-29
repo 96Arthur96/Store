@@ -1,10 +1,10 @@
- <div align="center" >
+ <div align="midle" >
+ <p>Hello everyone <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30" height="30" align="middle"/> </p>
 
 </div>
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150">
  
- <p>Hello everyone <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30" height="30" align="middle"/> </p>
 
 </div>
 <div id="badges" align="center">
