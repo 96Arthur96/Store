@@ -1,4 +1,9 @@
 
+<div align="center" >
+  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/ align="centr" width="40" height="40">
+  <h5> Hello everyone </h5>
+     </div>
+    
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="100" height="140">
 </div>
@@ -9,9 +14,6 @@
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
  
-<div align="center" >
-  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/ align="centr" width="40" height="40">
-     </div>
-    <h5> Hello everyone </h5>
+
     
     
