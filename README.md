@@ -1,6 +1,6 @@
 <div id="header" align="center" >
  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/ width="110" height="150" align="middle" > 
- <h5>Hi everyone </h5>
+ <p>Hi everyone </p>
   </div>
 
 <div id="header" align="center" >
