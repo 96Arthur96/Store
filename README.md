@@ -1,5 +1,9 @@
 
-
+<html>
+<head>
+<title></title>
+</head>
+<body>
 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150">
@@ -13,5 +17,7 @@
  
 
     
-    <p><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="120" height="180" align="middle" /> 
+    <p><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="120" height="180" align="middle"/> 
 Hi everyone</p>
+    </body>
+</html>
