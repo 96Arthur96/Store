@@ -1,7 +1,5 @@
 
- <div align="middle" >
- <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/ width="40" height="40" > <p>Hi everyone</p>
- </div>
+
 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150">
@@ -15,4 +13,5 @@
  
 
     
-    
+    <p><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="120" height="180" align="middle" /> 
+Hi everyone</p>
