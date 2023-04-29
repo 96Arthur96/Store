@@ -1,5 +1,5 @@
 
-<h4>_____________________________________Hello everyone_____________________________________</h4>
+<div id="header" align="center" ><h4>_____________________________________Hello everyone_____________________________________</h4></div>
 
 <div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150">
