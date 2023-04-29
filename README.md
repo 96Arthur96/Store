@@ -8,6 +8,6 @@
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
 
-    <div><img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"/  width="120" height="180" align="middle"/> 
+    <div><img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150"> 
       Hi everyone</div>
 
