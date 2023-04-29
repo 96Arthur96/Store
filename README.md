@@ -9,5 +9,5 @@
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
   </div>
 
-<p><img src="images/htmlbeer1.jpg" width="120" height="180" align="left" /> 
-Очень симпатичная пчёлка</p>
+<p>Очень симпатичная пчёлка<img src="images/htmlbeer1.jpg" width="120" height="180" align="middle"/> 
+</p>
